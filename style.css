@@ -21,7 +21,7 @@ section {
 }
 
 .products {
-    margin-left: 650px;
+    margin-left: 700px;
     margin-right: 200px;
     padding: 10px;
     max-width: 600px;
@@ -32,14 +32,28 @@ section {
 button {
     background: #4CAF50;
     color: #ffffff;
-    padding: 10px 20px;
+    padding: 10px 20px; 
     border: none;
     border-radius: 0%;
     cursor: pointer;
 }
 
+img {
+    max-width:450px;
+    max-height: 450px;
+    height: auto;
+    margin-left: 100px;
+    border-radius: 5%;
+    margin-top: 5%;
+}
+
 h2 {
     color: #4CAF50;
+    text-align: center;
+}
+
+h3 {
+    color: #333;
     text-align: center;
 }
 
